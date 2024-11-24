@@ -1,3 +1,3 @@
 # helloworld
 this is my first git repository
-Author : kratika deshlehra 
+Author : kratika vit bhopal  university
